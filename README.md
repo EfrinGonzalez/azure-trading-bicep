@@ -4,6 +4,8 @@ This repository contains a modular Azure Bicep starter architecture for a regula
 
 It is intentionally designed as an interview/architecture accelerator, not as a drop-in production baseline. Production use requires security review, landing-zone alignment, cost review, policy hardening, DR design, identity integration, and regulatory validation.
 
+Note: For visualization of the IaC use the Bicep VS Code extension.
+
 ## Structure
 
 ```text
